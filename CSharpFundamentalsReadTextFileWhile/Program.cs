@@ -6,7 +6,6 @@ namespace CSharpFundamentalsReadTextFileWhile
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
