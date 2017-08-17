@@ -17,7 +17,7 @@ namespace CSharpFundamentalsReadTextFileWhile
                     Console.WriteLine(line);
             }
 
-            myReader.Close();
+            myReader.Dispose();
             Console.ReadLine();
         }
     }
